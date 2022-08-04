@@ -1,0 +1,6 @@
+{"field_1": [1, 2, "3"]}
+{"field_2": true}
+{"field_2": "true"}
+{"field_3": [1]}
+{"field_3": [{"field_4": 2}]}
+{"field_9": [[],[]]}

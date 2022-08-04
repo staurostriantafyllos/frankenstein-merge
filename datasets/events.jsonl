@@ -1,0 +1,5 @@
+{"field_1": true}
+{"field_1": true, "field_2": "Hello"}
+{"field_1": true, "field_2": "Hello", "field_3": [1, 2]}
+{"field_5": "Hi"}
+{"field_1": true, "field_6": {"field_7": [{"field_8": [true, false]}]}}
